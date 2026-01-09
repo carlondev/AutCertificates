@@ -10,7 +10,7 @@ Este repositório contém scripts em PowerShell projetados para automatizar o ci
 
 ---
 
-## 🛠️ 1. Geração de CSR em Lote (`Generate-CSR.ps1`)
+## 🛠️ 1. Geração de CSR em Lote (`Gen-Certs-MultSan.ps1`)
 
 Este script automatiza a criação de arquivos `.inf` e `.csr` utilizando o utilitário nativo `certreq.exe`. Ele foi configurado para utilizar o provedor moderno **KSP (Key Storage Provider)**.
 
